@@ -1,0 +1,89 @@
+.CustomColour {
+    background-color: #f0ffff;
+}
+
+.CustomMargin {
+    margin-left: 6em;
+}
+
+.CustomSpace {
+    margin-left: 26em;
+    margin-top: 1.5em;
+}
+
+.marginTop {
+    margin-top: 1.5em;
+}
+
+.main {
+    background-image: url(./Medical-images/medicine.webp);
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.CustomDesigning {
+    background-color: rgba(10, 10, 10, 0.5);
+    padding: 10px;
+    padding-left: 15px;
+    color: white;
+    border-radius: 10px;
+    font-size: 50px;
+    align-items: center;
+    /* background-color: azure;//// */
+}
+
+.CustomDistance {
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.icon {
+    padding-left: 150px;
+    font-size: 50px;
+    font-weight: bold;
+    color: green;
+}
+
+.margin {
+    margin-left: 110px;
+}
+
+.CustomCard {
+    background-color: #FFF8DC;
+    border-radius: 10px;
+    box-shadow: #f0ffff;
+}
+
+.CustomPicture {
+    background-image: url('https://www.organicconsumers.org/sites/default/files/1424519110353.cached.jpg');
+    width: 100%;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.customTopmargin {
+    margin-top: 350px;
+    background-color: rgb(212, 131, 131);
+}
+
+.customPadding {
+    margin-top: 8em;
+}
+
+.lists {
+    display: flex;
+    flex-direction: row;
+    width: 75%;
+    margin: auto;
+    font-size: 13px;
+}
+
+.lists .line span {
+    display: block;
+}
