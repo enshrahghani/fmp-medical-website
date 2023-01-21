@@ -3,11 +3,17 @@
 }
 
 .CustomMargin {
-    margin-left: 6em;
+    margin-top: 3%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.CutomRadius {
+    font-size: 50px;
+    margin-left: 2em;
 }
 
 .CustomSpace {
-    margin-left: 26em;
+    margin-left: 30em;
     margin-top: 1.5em;
 }
 
@@ -68,7 +74,7 @@
 }
 
 .customTopmargin {
-    margin-top: 350px;
+    margin-top: 390px;
     background-color: rgb(212, 131, 131);
 }
 
